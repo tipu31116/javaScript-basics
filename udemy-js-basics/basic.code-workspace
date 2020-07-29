@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\VScode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "udemy-js-basics"
+	}
+}
